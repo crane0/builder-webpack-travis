@@ -9,7 +9,7 @@
   "scripts": {
     "test": "nyc ./node_modules/.bin/_mocha",
     "eslint": "eslint ./lib --fix",
-    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -w -r -s 0"
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
 
   },
   "keywords": [],
