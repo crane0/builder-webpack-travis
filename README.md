@@ -2,7 +2,7 @@
 
 eslint 检查 lib 目录
 ```
- .\node_modules\.bin\eslint lib\
+ ./node_modules/.bin/eslint lib/
 ```
 
 自动修复一些问题
